@@ -33,3 +33,15 @@ undefined => false
 NaN => false
 */
 
+//                  opretions
+
+let str1= "hello"
+let str2= " i am"
+let str3= str1+str2
+console.log(str3); // "hello i am"
+
+console.log("2" + 2); // "22"
+console.log(1+1+"2"); // "22"
+console.log(1+"2"+1); // "121"
+
+
