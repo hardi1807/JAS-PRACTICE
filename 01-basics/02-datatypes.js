@@ -9,15 +9,26 @@ console.log("hardi")/*code readability should be high  */
 /*  Data Types in JavaScript:
 (primitive types)
 number => 2 to power 52 
-bigint
+bigint = some large numbers
 string "text"
 boolean true/false"
 null = standlone value
 undefined = not assigned value
 symbol = unique and immutable value
 */
+const id = symbol("123");
+
 
 console.log(typeof null); 
 // Output: object (this is a known bug in JavaScript)
 console.log(typeof undefined);
 // Output: undefined
+
+/* reference types
+(non-primitive types)
+object = collection of key-value pairs
+array = ordered list of values
+function = callable object
+*/
+
+// javascript is dynamically typed language
