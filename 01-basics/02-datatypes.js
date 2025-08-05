@@ -31,4 +31,10 @@ array = ordered list of values
 function = callable object
 */
 
+//stack vs heap memory
+// stack memory = primitive types
+// heap memory = reference types
+//in heap memory, objects are stored as references, not values
+
+
 // javascript is dynamically typed language
