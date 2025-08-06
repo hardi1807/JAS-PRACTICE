@@ -17,4 +17,4 @@ math.ceil
 min
 max
 floor
-math.random between 0 and 1
+math.random()
