@@ -4,7 +4,7 @@
 const myArr = [1,2,3,4]
 const myHero = ["Superman", "Batman"]
 
-const myArr2 = new Array(1,2, 3, 4, 5)
+const myArr2 = new Array(1,2,3,4,5)
 console.log(myArr[2]);// 3
 console.log(myHero[1]); // Batman
 
