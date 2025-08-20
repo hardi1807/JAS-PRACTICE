@@ -48,3 +48,9 @@ for (const key in myobj) {
     console.log(`${key} is for ${myobj[key]}`)
 }
 
+const programming = ['js','c++']
+
+for (const key in programming){
+    console.log(programming[key]);
+}
+
